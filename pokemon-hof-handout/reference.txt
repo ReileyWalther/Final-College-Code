@@ -1,0 +1,42 @@
+Question 1
+Blissey (HP: 255)
+Chansey (HP: 250)
+Guzzlord (HP: 223)
+Wobbuffet (HP: 190)
+Wailord (HP: 170)
+
+Question 2
+Bonsly (Sp. Attack: 10)
+Feebas (Sp. Attack: 10)
+Shuckle (Sp. Attack: 10)
+
+Question 3
+Budew (Attack: 30)
+Bulbasaur (Attack: 49)
+Oddish (Attack: 50)
+Foongus (Attack: 55)
+Roselia (Attack: 60)
+Ivysaur (Attack: 62)
+Gloom (Attack: 65)
+Roserade (Attack: 70)
+Bellsprout (Attack: 75)
+Vileplume (Attack: 80)
+Venusaur (Attack: 82)
+Amoonguss (Attack: 85)
+Weepinbell (Attack: 90)
+Victreebel (Attack: 105)
+
+Question 4
+Aerodactyl (Speed: 130)
+Lycanroc (Speed: 112)
+Archeops (Speed: 110)
+Terrakion (Speed: 108)
+Nihilego (Speed: 103)
+
+Question 5
+Deoxys (Attack: 150, Defense: 50)
+Pheromosa (Attack: 137, Defense: 37)
+Cranidos (Attack: 125, Defense: 40)
+Sharpedo (Attack: 120, Defense: 40)
+Carvanha (Attack: 90, Defense: 20)
+
