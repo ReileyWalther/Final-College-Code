@@ -1,0 +1,14 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "This server serves the purpose of the expressJS for assignment 3 for csc342.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reiley Walther",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
