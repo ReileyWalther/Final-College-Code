@@ -1,0 +1,86 @@
+Cool drinks at a drink stand
+
+TABLE 1 - Drinks
+ID NUMBER
+-unique to every record
+
+NAME
+-Coke
+-Fanta
+-Sprite
+-Dr. Pepper
+-Pepsi
+-Lemonade
+-Root beer
+-Sweet Tea
+-Water
+-Mountain Dew
+
+PRICE
+-real value
+
+SIZE ml
+-250
+-330
+-340
+-440
+-500
+-1000
+-1500
+-2000
+
+TABLE 2 - Food
+ID NUMBER
+-unique to every record
+
+NAME
+-Burger
+-Cheeseburger
+-Sandwich
+-Hot Dog
+-Fries
+-Curly Fries
+-Cheesesteak
+-Pepperoni Pizza slice
+
+COST
+-real value
+
+COMES WITH SAUCE?
+-T/F value
+
+Calories
+-integer value
+
+
+
+
+
+
+
+
+
+
+
+CREATE TABLE report (
+    id INTEGER,
+    last_name TEXT,
+    first_name TEXT,
+    course TEXT,
+    section TEXT,
+    category TEXT,
+    item INTEGER,
+    grade REAL
+);
+INSERT INTO report VALUES(2030,'Fitzpatrick','Laverne','CSC125','020','project',4,100.0);
+INSERT INTO report VALUES(9839,'Crosby','Fanny','CSC125','010','project',3,79.06999999999999318);
+INSERT INTO report VALUES(9839,'Crosby','Fanny','CSC237','020','homework',5,79.049999999999997156);
+INSERT INTO report VALUES(6807,'Koch','Wayne','CSC125','010','project',4,99.819999999999993178);
+INSERT INTO report VALUES(4860,'Fulton','Florence','CSC242','010','exam',1,56.909999999999996587);
+INSERT INTO report VALUES(9176,'Best','Aurelio','CSC125','010','homework',1,100.0);
+INSERT INTO report VALUES(6826,'Mcclure','Sherri','CSC125','020','homework',7,78.870000000000004547);
+INSERT INTO report VALUES(7584,'Fulton','Vince','CSC223','010','homework',1,71.999999999999999998);
+INSERT INTO report VALUES(9436,'Shaffer','Pearl','CSC135','010','quiz',3,59.979999999999996872);
+INSERT INTO report VALUES(5123,'Bruce','Kristy','CSC237','030','homework',5,99.409999999999996587);
+INSERT INTO report VALUES(2829,'Anderson','Booker','CSC125','010','project',2,90.349999999999994317);
+
